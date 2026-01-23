@@ -50,3 +50,45 @@
   letter-spacing: 0.5px; /* 增加字间距 */
   // text-transform: uppercase; /* 可选：全大写显得更正式 */
 }
+
+/* --- Author Profile Page Customization --- */
+
+/* 强制作者页面容器变宽 */
+.author-profile-wrapper {
+  max-width: 1300px !important; /* 限制最大宽度，避免太宽难以阅读 */
+  width: 90% !important; /* 占据屏幕 90% 宽度，留出适量边距 */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* 解除文章内容区域的宽度限制 */
+.author-profile-wrapper .article-style {
+  max-width: 100% !important;
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 1.1rem; /* 可选：稍微调大正文字体，适配宽屏 */
+}
+
+/* 确保 grid 系统在宽容器下正常表现 */
+.author-profile-wrapper .row {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+}
+
+/* 调整头像和信息的布局 */
+@media (min-width: 768px) {
+  .author-profile-wrapper .col-md-3 {
+    flex: 0 0 300px; /* 固定头像区域宽度 */
+    max-width: 300px;
+    width: 300px;
+  }
+
+  .author-profile-wrapper .col-md-9 {
+    flex: 1; /* 自动占据剩余空间 */
+    max-width: none;
+    width: auto;
+  }
+}
