@@ -1,0 +1,22 @@
+<footer class="site-footer">
+  <div class="container">
+    {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+    <p class="powered-by">
+      {{ with site.GetPage "terms.md" }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+      {{ if and (site.GetPage "terms.md") (site.GetPage "privacy.md") }} &middot; {{ end }}
+      {{ with site.GetPage "privacy.md" }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </p>
+    {{ end }}
+
+    <p class="powered-by">
+      {{- $copyright := site.Params.footer.copyright.notice | default (printf "© %d %s" now.Year site.Title) -}}
+      {{- $copyright = replace $copyright "{year}" now.Year -}}
+      {{- $copyright = replace $copyright "{license}" (printf "<a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0\" rel=\"noopener noreferrer\" target=\"_blank\">CC BY NC ND 4.0</a>") -}}
+      {{ $copyright | markdownify }}
+    </p>
+  </div>
+</footer>

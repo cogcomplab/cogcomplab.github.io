@@ -13,3 +13,6 @@ main:
   - name: Publications
     url: pubs
     weight: 50
+  - name: Home
+    url: tour
+    weight: 20

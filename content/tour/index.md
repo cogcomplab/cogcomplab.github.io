@@ -8,47 +8,123 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: ''
+        content: ''
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 2026AAAI会议.jpg
             filters:
-              brightness: 0.7
-          position: right
+              brightness: 1.0
+          position: center
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: ''
+        content: ''
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: 2025CCF哈尔滨会议.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: 2025毕业.jpeg
             filters:
-              brightness: 0.5
+              brightness: 1.0
           position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: show.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: 2025羽毛球.jpeg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: 2023毕业.jpeg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: 2021毕业.jpeg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: show.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: 2019毕业.jpeg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: 2019教师节.jpeg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: show.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 4000
 ---

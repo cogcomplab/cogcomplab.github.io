@@ -1,5 +1,4 @@
 ---
-# Display name
 title: 白天
 slug: baitian
 
@@ -66,7 +65,7 @@ user_groups:
   - Researchers
 ---
 
-白天，吉林大学计算机科学与技术学院教授、博士生导师。主持承担了国家自然科学基金面上项目、联合基金、青年基金等。他的主要研究方向是多模态大模型、自然语言理解、图像分析计算、智慧医疗，在中科院一区/CCF A类刊物与会议上发表学术论文60余篇。获得吉林省科技进步一等奖1项、中国商业联合会科技进步一等奖1项。现任吉林大学计算机学院计算智能教研室主任，吉林大学计算机学院学术委员会委员，吉林省数智融合技术与应用工程实验室主任，吉林大学-佐治亚大学系统生物学联合研究中心副主任。入选吉林省省域拔尖人才（吉林省委组织部）、吉林省中青年科技创新卓越人才团队负责人（吉林省科技厅）、吉林省高校优秀青年科研创新人才（吉林省教育厅）、吉林省企业“科创专员”（吉林省科技厅）、吉林大学“励新优秀青年教师培养计划”。
+白天，吉林大学计算机科学与技术学院教授、博士生导师、学术委员会委员、计算智能教研室主任。主要研究方向：多模态大模型、自然语言理解、图像分析计算、智慧医疗。近三年，主持国家自然科学基金面上项目、联合基金（重点项目）子课题等累计经费300余万元；发表CCF A、B类和中科院1区论文30余篇；获吉林省科技进步一等奖、全国商业科技进步一等奖。现任吉林省数智融合技术与应用工程实验室主任，吉林大学-佐治亚大学系统生物学联合研究中心副主任。入选吉林省省域拔尖人才、吉林省中青年科技创新卓越人才团队负责人、吉林省企业“科创专员”。
 
 ## 科研项目
 
@@ -80,10 +79,9 @@ user_groups:
 
 ## 学术获奖
 
-- 恶性脊柱肿瘤数智化诊疗体系的建立与推广应用，吉林省科技厅，科技进步奖，一等奖，排名第2，2025
-- 多源数据语义认知计算关键技术与应用，中国商业联合会，全国商业科技进步奖，一等奖，排名第1，2023
+- 恶性脊柱肿瘤数智化诊疗体系的建立与推广应用，吉林省科技进步奖，一等奖，排名第2，2025
+- 多源数据语义认知计算关键技术与应用，全国商业科技进步奖，一等奖，排名第1，2023
 - 国际学术会议IEEE MedAI 2023，唯一最佳论文奖，2023
-- 生物医药知识网络构建关键技术及应用，中国商业联合会，全国商业科技进步奖，二等奖，排名第1，2020
 
 
 ## 代表论文
@@ -93,3 +91,129 @@ user_groups:
 ## 招生信息
 
 白天教授所在认知计算科研团队现有教授、在站博士后、博士生和硕士生若干名，研究组长期招收计算机学院和软件学院各专业的博士（学博及专博）和硕士（学硕及专硕）研究生。研究生在学校奖助学金基础上可获额外科研奖励和津贴，博士生可派往国外交流联培，硕士生可全额资助参加国内学术会议和讲习班。欢迎对多模态大模型、自然语言理解、图像分析计算与智慧医疗等方向感兴趣的同学加入团队（咨询和简历投递邮箱：baitian@jlu.edu.cn）。
+
+<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">博士后</h2>
+<div class="lab-member-grid">
+  <!-- 学生1 -->
+  <div class="lab-member-item">
+    <img src="郭书宇.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">郭书宇</div>
+  </div>
+</div>
+
+<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">博士生</h2>
+<div class="lab-member-grid">
+  <!-- 学生1 -->
+  <div class="lab-member-item">
+    <img src="关昊天.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">关昊天</div>
+  </div>
+  <!-- 学生2 -->
+  <div class="lab-member-item">
+    <img src="张泽帆.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">张泽帆</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="任鹏.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">任鹏</div>
+  </div>
+  <!-- 学生4 -->
+  <div class="lab-member-item">
+    <img src="张光瞳.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">张光瞳</div>
+  </div>
+</div>
+
+<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">硕士生</h2>
+<div class="lab-member-grid">
+  <!-- 学生1 -->
+  <div class="lab-member-item">
+    <img src="曹永旺.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">曹永旺</div>
+  </div>
+  <!-- 学生2 -->
+  <div class="lab-member-item">
+    <img src="李延辉.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">李延辉</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="穆宇浩.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">穆宇浩</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="索凯龙.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">索凯龙</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="张伟琦.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">张伟琦</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="张栩朦.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">张栩朦</div>
+  </div>
+   <!-- 强制换行 -->
+   <div style="width: 100%;"></div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="安荟霖.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">安荟霖</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="蒋程.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">蒋程</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="王洋.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">王洋</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="杨诗睿.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">杨诗睿</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="英惠艳.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">英惠艳</div>
+  </div>
+   <!-- 强制换行 -->
+   <div style="width: 100%;"></div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="郭珂瑾.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">郭珂瑾</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="蒋世杰.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">蒋世杰</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="杨传德.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">杨传德</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="姚棋舰.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">姚棋舰</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="zt.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">张涛</div>
+  </div>
+  <!-- 学生3 -->
+  <div class="lab-member-item">
+    <img src="朱柯桦.jpg" alt="Student Name" class="lab-member-photo">
+    <div class="lab-member-name">朱柯桦</div>
+  </div>
+</div>
