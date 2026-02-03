@@ -67,7 +67,7 @@ user_groups:
 
 白天，吉林大学计算机科学与技术学院教授、博士生导师、学术委员会委员、计算智能教研室主任。主要研究方向：多模态大模型、自然语言理解、图像分析计算、智慧医疗。近三年，主持国家自然科学基金面上项目、联合基金（重点项目）子课题等累计经费300余万元；发表CCF A、B类和中科院1区论文30余篇；获吉林省科技进步一等奖、全国商业科技进步一等奖。现任吉林省数智融合技术与应用工程实验室主任，吉林大学-佐治亚大学系统生物学联合研究中心副主任。入选吉林省省域拔尖人才、吉林省中青年科技创新卓越人才团队负责人、吉林省企业“科创专员”。
 
-## 科研项目
+## Research Projects 
 
 - 国家自然科学基金面上项目：面向肿瘤早期诊断的多模态数据语义关联挖掘研究，2026–2029
 - 国家自然科学基金联合基金子课题：多模态骨关节影像智能计算方法研究，2022–2025
@@ -77,22 +77,22 @@ user_groups:
 - 吉林省国际合作重点项目：基于深度学习的图文信息抽取技术及医疗应用研究，2020–2022
 - 企业技术开发 A 类项目：智慧城市系列平台研发，2021–2026 
 
-## 学术获奖
+## Academic Awards
 
 - 恶性脊柱肿瘤数智化诊疗体系的建立与推广应用，吉林省科技进步奖，一等奖，排名第2，2025
 - 多源数据语义认知计算关键技术与应用，全国商业科技进步奖，一等奖，排名第1，2023
 - 国际学术会议IEEE MedAI 2023，唯一最佳论文奖，2023
 
 
-## 代表论文
+## Research Papers
 
 [点击查看完整论文列表](/pubs/)
 
-## 招生信息
+## Join Us
 
 白天教授所在认知计算科研团队现有教授、在站博士后、博士生和硕士生若干名，研究组长期招收计算机学院和软件学院各专业的博士（学博及专博）和硕士（学硕及专硕）研究生。研究生在学校奖助学金基础上可获额外科研奖励和津贴，博士生可派往国外交流联培，硕士生可全额资助参加国内学术会议和讲习班。欢迎对多模态大模型、自然语言理解、图像分析计算与智慧医疗等方向感兴趣的同学加入团队（咨询和简历投递邮箱：baitian@jlu.edu.cn）。
 
-<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">博士后</h2>
+<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">Postdoctoral Researcher</h2>
 <div class="lab-member-grid">
   <!-- 学生1 -->
   <div class="lab-member-item">
@@ -101,7 +101,7 @@ user_groups:
   </div>
 </div>
 
-<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">博士生</h2>
+<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">PhD Student</h2>
 <div class="lab-member-grid">
   <!-- 学生1 -->
   <div class="lab-member-item">
@@ -125,7 +125,7 @@ user_groups:
   </div>
 </div>
 
-<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">硕士生</h2>
+<h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">Master’s Student</h2>
 <div class="lab-member-grid">
   <!-- 学生1 -->
   <div class="lab-member-item">
